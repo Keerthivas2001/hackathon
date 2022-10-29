@@ -1,0 +1,81 @@
+.entire{
+  background-color: hsla(314, 100%, 90%, 0.97);
+}
+#title{
+  color:black;
+
+ background-color: white;
+ opacity: 85%;
+text-align: center;
+    position: relative;bottom:300px ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    word-spacing:5px;
+    font-weight: 500;
+   
+
+}
+
+
+#coverpic{
+  opacity:60%;
+  display: flex;
+  flex-wrap: wrap;
+justify-content:center ;
+flex-wrap: wrap;
+
+ 
+    width: 1480px;
+    height: 400px;
+   
+  
+    
+  
+
+}
+
+.producttype{
+  color: rgb(31, 14, 20);
+  font-family: 'Times New Roman', Times, serif;
+margin-left: 90px;
+margin-bottom: 20px;
+font-size: 50px;
+
+}
+
+.card-title{
+  font-size: 30px;
+  color: rgb(213, 152, 9);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card{
+ 
+  margin: 20px 20px;
+}
+.card-img-top{
+  width: 40%;
+  height: 40%;
+}
+
+.line-3{
+  margin-bottom: 10px;
+  height: 1px;
+  border: 0;
+  background: black;
+}
+.btn-primary{
+ 
+  cursor: pointer;
+  box-shadow: 0 9px #999;
+  margin-top: 10px;
+margin-left: 70px;
+}
+
+.btn-primary:hover { background-color: hsla(314, 100%, 90%, 0.97);}
+
+.btn-primary:active {
+   color: hsla(314, 100%, 90%, 0.97);;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
